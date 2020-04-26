@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className="title">App - Build 1</h1>
+        <h1 className="title">App - Build 2</h1>
       </main>
 
       <style jsx>{`
